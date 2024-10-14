@@ -16,7 +16,7 @@ library(gridExtra)
 ## Data Importing and Wrangling
 
 ```{r}
-mem.dat <- read_csv("PSYX225_ProjectData.csv")
+mem.dat <- read_csv("data/PSYX225_ProjectData.csv")
 
 mem.dat$Modality <- as.factor(mem.dat$Modality)
 mem.dat$Warning <- factor(mem.dat$Warning,
