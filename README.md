@@ -1,5 +1,7 @@
 # ANOVA-FalseRecognition-ModalityWarning
 
+Author: Harley Clifton
+
 ## Overview
 Investigating the Effect of Modality and Warning on False Recognition in the Deese-Roediger-McDermott (DRM) paradigm
 
