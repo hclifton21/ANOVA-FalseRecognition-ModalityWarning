@@ -21,6 +21,14 @@ Each participant was presented with four word lists, either auditorily or visual
 
 Students then scored the recognition task, counting the number of falsely identified critical lure terms and correctly recognized items, with the entire process taking approximately 30 minutes per participant.
 
+## Variables
+Data was collected for the following variables:
+
+- Modality: Visual or Auditory
+- Warning: if they were given a warning or not
+- CL: the proportion of critical lure items they incorrectly recognized
+- Correct: the proportion of items they correctly recognized
+
 
 # Results
 There was substantial evidence of a main effect of warning on the false recognition of critical lure terms. These results support previous findings that warning likely impacts the creation of false memories, but only does so under certain circumstances. Additionally, we advise replicating this experiment with increased controls to mitigate internal validity concerns.
